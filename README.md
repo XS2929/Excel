@@ -1,2 +1,2 @@
 # Excel
-Some excel notes
+Some Excel notes
