@@ -1,4 +1,4 @@
-#Part One, histogram
+# Part One, histogram
 
 Excel 2016 steps:
 1. data paste into a sheet. 
@@ -10,7 +10,7 @@ Excel 2016 steps:
 7. analysis. Is it normal, left skewed or right skewed. Normal find mean and standard deviation. Skewed find median and IQR. 
 
 
-#Part Two, one sample t test*
+# Part Two, one sample t test
 
 Excel 2016 steps:
 1. data paste into a sheet.
@@ -32,7 +32,7 @@ The 95 % confidence interval is found by using the equations =[mean] + (t_star Ã
 upper bound, and =[mean] - (t_star Ã— SE) for the lower bound
 
 
-#Part Three, Paired(Dependent) t-test*
+# Part Three, Paired(Dependent) t-test
 
 Excel 2016 steps:
 1. copy paste the two columns to be analyzed
@@ -41,7 +41,7 @@ Excel 2016 steps:
 
 
 
-#Part Four, Independent t-test*
+# Part Four, Independent t-test
 
 Excel 2016 steps:
 1. copy paste the two columns to be analyzed
@@ -49,7 +49,7 @@ Excel 2016 steps:
 3. set range one as column one, range two as column two and check label if needed.
 
 
-#Part Five, ANOVA*
+# Part Five, ANOVA
 
 Excel 2016 steps:
 1. copy paste the all columns to be analyzed
